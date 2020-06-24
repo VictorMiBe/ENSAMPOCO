@@ -1,0 +1,16 @@
+#contenedor{
+    text-align: center;
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+}
+#contenedor .c-1{
+    margin-top: 40px;
+}
+#contenedor .c-1 input{
+    width: 300px;
+    height: 100px;
+}
+#contenedor .c-1 button{
+    margin-top: 15px;
+}
