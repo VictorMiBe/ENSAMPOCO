@@ -1,6 +1,6 @@
 let cont = document.getElementById("contenedor")
 
-const copiardatos = () => {
+const copiardatos = () =>{
     let codigo = document.getElementById("codigo").value;
     let pila = codigo.match(/\S+/g);
     console.log(pila);
